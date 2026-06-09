@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: white;
+  padding: 50px;
+}
+
+nav {
+  margin: 20px;
+}
+
+nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: blue;
+  font-size: 18px;
+}
+
+button {
+  padding: 12px 20px;
+  cursor: pointer;
+}
