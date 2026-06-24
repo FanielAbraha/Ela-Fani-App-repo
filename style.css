@@ -11,7 +11,7 @@ nav {
 
 nav a {
   margin: 10px;
-  text-decoration: none;
+  text-decoration: italic;
   color: blue;
   font-size: 18px;
 }
